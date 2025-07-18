@@ -1,5 +1,3 @@
-# tree_species_classifier
-
 # 🌳 Tree Species Identification Project – Week 1
 
 This repository contains the initial setup for the Tree Species Identification project using the dataset from Kaggle. This is part of Week 1 activity to prepare the data and environment for machine learning.
@@ -13,6 +11,6 @@ This repository contains the initial setup for the Tree Species Identification p
 
 - ✅ Downloaded the dataset from Kaggle
 - ✅ Mounted Google Drive in Google Colab using:
-  (Python)
+  ```python
   from google.colab import drive
   drive.mount('/content/drive')
